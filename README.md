@@ -26,9 +26,4 @@ Critical Bottlenecks: Wilson Station (1,514 mins) and Eglinton Station (1,314 mi
 
 Peak Risk Hours: Visualized a clear spike in delays at 1 AM and 6 PM, providing actionable data for transit planning.
 
-📂 Repository Contents
-/SQL_Scripts: The raw queries used for data aggregation.
-/PowerBI_File: The .pbix file containing the interactive report.
-/Images: High-resolution screenshots of the final dashboard.
-
 Contact: Jay Bakaraniya – www.linkedin.com/in/jaybakaraniya
